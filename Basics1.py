@@ -54,5 +54,4 @@ print("\nLast character of String is: ")
 print(String1[-1])
 print(String1[-5])
 
-
-print("Helo ")
+print('I am just pushing')
