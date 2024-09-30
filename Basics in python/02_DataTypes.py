@@ -90,7 +90,7 @@ print(List)
 # the use of multiple values
 List = ["Geeks", "For", "Geeks"]
 
-# accessing a element from the
+# accessing an element from the
 # list using index number
 print("Accessing element from the list")
 print(List[0])
@@ -278,12 +278,12 @@ print(Dict)
 # In order to access the items of a dictionary refer to its key name. Key can be used inside square brackets. There is also a method called get() that will also help in accessing the element from a dictionary.
 
 # Python program to demonstrate
-# accessing a element from a Dictionary
+# accessing an element from a Dictionary
 
 # Creating a Dictionary
 Dict = {1: 'Geeks', 'name': 'For', 3: 'Geeks'}
 
-# accessing a element using key
+# accessing an element using key
 print("Accessing a element using key:")
 print(Dict['name'])
 
