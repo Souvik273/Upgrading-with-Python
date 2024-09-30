@@ -50,7 +50,7 @@ print(my_string.split(", "))  # Output: ['Hello', 'World!']
 
 
 '''6. String Formatting
-Python supports multiple ways of formatting strings, including using the % operator, the str.format() method, and f-strings (formatted string literals).
+    Python supports multiple ways of formatting strings, including using the % operator, the str.format() method, and f-strings (formatted string literals).
 
 Example:'''
 
