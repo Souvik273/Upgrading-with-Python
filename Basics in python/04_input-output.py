@@ -63,3 +63,4 @@ print ("type of name", type(name1))
 a = int(input('Enter the first number :'))
 b = int(input('Enter the second number:-'))
 print(a+b)
+
